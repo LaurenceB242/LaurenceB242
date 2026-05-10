@@ -13,7 +13,7 @@
 </p>
 
 <h2>Development WEB</h2>
-<h3>Desing</h3>
+<h3>Design</h3>
 <table>
      <td><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"></a></td>
     <td><a href="https://www.photoshop.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="photoshop"></a></td>
