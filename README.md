@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je suis Laurence</h1>
 <h3 align="center">Etudiante en web developpeur, paassionée par la 3D et la créativité</h3>
 
-<p align="gauche"> <img src="https://komarev.com/ghpvc/?username=richika039&label=Profile%20views&color=0e75b6&style=flat" alt="richika039" /> </p>
+<!-- <p align="gauche"> <img src="https://komarev.com/ghpvc/?username=richika039&label=Profile%20views&color=0e75b6&style=flat" alt="richika039 /> </p> -->
 
 <p align="gauche"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richika039" alt="richika039" /></a> </p>
 
