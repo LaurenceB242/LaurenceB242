@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Laurence</h1>
-<h3 align="center">Etudiante en web developpeur, paassionée par la 3D et la créativité</h3>
+<h3 align="center">Etudiante en web developpeur, paasionée par la 3D, la philo, l'économie, la musique</h3>
 
 
 - 🔭 Je travaille actuellement sur [Site Web du festival](https://www.figma.com/design/UcMp7jRTBB0M0LPMN5hBiK/Untitled?t=TZ4i6LJLmQHIOnD8-0)
