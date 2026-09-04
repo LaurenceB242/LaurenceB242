@@ -1,75 +1,50 @@
-<table width="100%">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=Laurence+BARTHELEMY" alt="Laurence Barthelemy" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=2500&pause=250&color=077A7D&center=true&vCenter=true&width=1000&height=50&lines=Web+Developpeuse;E-Business;Technicienne+Commerciale" alt="Software Engineer" />
+</p>
+<h1 align="center">Salut 👋, je suis Laurence</h1>
+<h3 align="center">Etudiante en web developpeur, passionée par la 3D, la philo, l'économie, la musique</h3>
+
+
+- 🔭 Je travaille actuellement sur [Site Web du festival](https://www.figma.com/design/UcMp7jRTBB0M0LPMN5hBiK/Untitled?t=TZ4i6LJLmQHIOnD8-0)
+
+- 🌱 J'apprends actuellement **Threejs, Blender,Javascript,**
+
+<p align="gauche">
+</p>
+
+<h2>Development WEB</h2>
+<h3>Design</h3>
+<table>
+     <td><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"></a></td>
+    <td><a href="https://www.photoshop.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="photoshop"></a></td>
+  <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"></a></td>
+</table>
+
+<h3>Frontend</h3>
+<table>
+ <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"></a></td>
+<td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"></a></td>
+    <td><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass"></a></td>
+</table>
+
+<h3>Backend</h3>
+<table>
+     <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"></a></td>
+     <td><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"></a></td>
+   <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a></td>
+  <td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap"></a></td>
+</table>
+
+<h3>Passion 3D </h3>
+<table>
   <tr>
-    <td bgcolor="#0d1117">
-      <br />
-
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=Laurence+BARTHELEMY" alt="Laurence Barthelemy" />
-      </p>
-
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=2500&pause=250&color=077A7D&center=true&vCenter=true&width=1000&height=50&lines=Web+Developpeuse;E-Business;Technicienne+Commerciale" alt="Software Engineer" />
-      </p>
-
-      <h3 align="center">Etudiante en web developpeur, passionée par la 3D, la philo, l'économie, la musique</h3>
-
-      <br />
-
-      <ul>
-        <li>🔭 Je travaille actuellement sur <a href="https://www.figma.com/design/UcMp7jRTBB0M0LPMN5hBiK/Untitled?t=TZ4i6LJLmQHIOnD8-0">Site Web du festival</a></li>
-        <li>🌱 J'apprends actuellement <strong>Threejs, Blender, Javascript</strong></li>
-      </ul>
-
-      <br />
-
-      <h2>Development WEB</h2>
-
-      <h3>Design</h3>
-      <table>
-        <tr>
-          <td><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"></a></td>
-          <td><a href="https://www.photoshop.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="photoshop"></a></td>
-          <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"></a></td>
-        </tr>
-      </table>
-
-      <h3>Frontend</h3>
-      <table>
-        <tr>
-          <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"></a></td>
-          <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"></a></td>
-          <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"></a></td>
-          <td><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass"></a></td>
-        </tr>
-      </table>
-
-      <h3>Backend</h3>
-      <table>
-        <tr>
-          <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"></a></td>
-          <td><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"></a></td>
-          <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a></td>
-          <td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap"></a></td>
-        </tr>
-      </table>
-
-      <h3>Passion 3D</h3>
-      <table>
-        <tr>
-          <td><a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_orange.svg" width="40" height="40" alt="blender"></a></td>
-          <td><a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="unity"></a></td>
-        </tr>
-      </table>
-
-      <br />
-
-      <div align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-salesp07.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical" alt="Laurence GitHub stats" />
-        </a>
-      </div>
-
-      <br />
-    </td>
+    <td><a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_orange.svg" width="40" height="40" alt="blender"></a></td> 
+    <td><a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="unity"></a></td>
   </tr>
 </table>
