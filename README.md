@@ -1,4 +1,4 @@
-[![Laurence GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=Laurence+BARTHELEMY" alt="Laurence Barthelemy" />
 </p>
@@ -48,3 +48,5 @@
     <td><a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="unity"></a></td>
   </tr>
 </table>
+
+[![Laurence GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
