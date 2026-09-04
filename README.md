@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=2500&pause=250&color=077A7D&center=true&vCenter=true&width=1000&height=50&lines=Web+Developpeuse;E-Business;Technicienne+Commerciale" alt="Software Engineer" />
 </p>
-<h1 align="center">Salut 👋, je suis Laurence</h1>
 <h3 align="center">Etudiante en web developpeur, passionée par la 3D, la philo, l'économie, la musique</h3>
 
 
