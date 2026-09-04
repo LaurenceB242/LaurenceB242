@@ -49,4 +49,4 @@
   </tr>
 </table>
 ![Laurence GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=LaurenceB242&show_icons=true&bg_color=1f2937&title_color=ec4899&text_color=ffffff&border_color=374151)
-[![Laurence GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
