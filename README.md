@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=Laurence+BARTHELEMY" alt="Laurence Barthelemy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=9D4EDD&center=true&vCenter=true&width=1000&height=80&lines=Laurence+BARTHELEMY" alt="Laurence Barthelemy" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=2500&pause=250&color=077A7D&center=true&vCenter=true&width=1000&height=50&lines=Web+Developpeuse;E-Business;Technicienne+Commerciale" alt="Software Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=2500&pause=9999&color=C77DFF&center=true&vCenter=true&width=1000&height=50&lines=Web+Developpeuse;E-Business;Technicienne+Commerciale" alt="Software Engineer" />
 </p>
 <h3 align="center">Etudiante en web developpeur, passionée par la 3D, la philo, l'économie, la musique</h3>
 
