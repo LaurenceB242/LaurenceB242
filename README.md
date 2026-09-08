@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=2500&pause=9999&color=C77DFF&center=true&vCenter=true&width=1000&height=50&lines=Web+Developpeuse;E-Business;Technicienne+Commerciale" alt="Software Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=1500&pause=9999&color=C77DFF&center=true&vCenter=true&width=1000&height=50&lines=Web+Developpeuse;E-Business;Technicienne+Commerciale" alt="Software Engineer" />
 </p>
 <h3 align="center">Etudiante en web developpeur, passionée par la 3D, la philo, l'économie, la musique</h3>
 
