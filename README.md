@@ -11,8 +11,6 @@
 
 - 🔭 Je travaille actuellement sur [Site Web du festival](https://www.figma.com/design/UcMp7jRTBB0M0LPMN5hBiK/Untitled?t=TZ4i6LJLmQHIOnD8-0)
 
-- 🌱 J'apprends actuellement **Threejs, Blender,Javascript,**
-
 <p align="gauche">
 </p>
 
