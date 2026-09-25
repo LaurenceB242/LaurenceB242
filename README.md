@@ -9,7 +9,11 @@
 <h3 align="center">Etudiante en web developpeur, passionée par la 3D, la philo, l'économie, la musique</h3>
 
 
-- 🔭 Je travaille actuellement sur [Site Web du festival](https://www.figma.com/design/UcMp7jRTBB0M0LPMN5hBiK/Untitled?t=TZ4i6LJLmQHIOnD8-0)
+- 🔭 Dernier Projet : [Site Web du festival Blitz]
+- Figma (https://www.figma.com/design/UcMp7jRTBB0M0LPMN5hBiK/Untitled?t=TZ4i6LJLmQHIOnD8-0)
+- Site V1 (https://blitz.laurencebarthelemy.com/build/pages/lineUp.html)
+- Site V2 (https://blitz3.laurencebarthelemy.com/build/pages/lineUp.php)
+- Github ()
 
 <p align="gauche">
 </p>
