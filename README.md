@@ -42,6 +42,15 @@
   <td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap"></a></td>
 </table>
 
+<h3>Framework</h3>
+<table>
+  <tr>
+    <td><a href="https://symfony.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="40" height="40" alt="symfony"></a></td>
+    <td><a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="vuejs"></a></td>
+    <td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap"></a></td>
+  </tr>
+</table>
+
 <h3>Passion 3D </h3>
 <table>
   <tr>
