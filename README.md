@@ -53,6 +53,7 @@
   </tr>
 </table>
 
+<h2>Hobbie/personnel</h2>
 <h3>Passion 3D</h3>
 <table>
   <tr>
@@ -63,6 +64,7 @@
   </tr>
 </table>
 
+<h2>Economie/marketing</h2>
 <h3>Suite Office</h3>
 <table>
   <tr>
