@@ -21,9 +21,12 @@
 <h2>Development WEB</h2>
 <h3>Design</h3>
 <table>
-     <td><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"></a></td>
+  <tr>
+    <td><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"></a></td>
     <td><a href="https://www.photoshop.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="photoshop"></a></td>
-  <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"></a></td>
+    <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"></a></td>
+    <td><a href="https://www.adobe.com/products/indesign.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/indesign/indesign-original.svg" width="40" height="40" alt="indesign"></a></td>
+  </tr>
 </table>
 
 <h3>Frontend</h3>
@@ -51,13 +54,32 @@
   </tr>
 </table>
 
-<h3>Passion 3D </h3>
+<h3>Passion 3D</h3>
 <table>
   <tr>
-    <td><a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_orange.svg" width="40" height="40" alt="blender"></a></td> 
-    <td><a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="unity"></a></td>
+    <td><a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" height="40" alt="blender"></a></td>
+    <td><a href="https://unity.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" alt="unity"></a></td>
+    <td><a href="https://www.adobe.com/products/xd.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" width="40" height="40" alt="adobe xd"></a></td>
   </tr>
 </table>
+
+<h3>Suite Office</h3>
+<table>
+  <tr>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" width="40" height="40" alt="word"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="40" height="40" alt="excel"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerpoint/powerpoint-original.svg" width="40" height="40" alt="powerpoint"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/access/access-original.svg" width="40" height="40" alt="access"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/publisher"><img src="https://img.icons8.com/color/48/microsoft-publisher.png" width="40" height="40" alt="publisher"></a></td>
+  </tr>
+</table>
+
+<h3>Compta</h3>
+<table>
+  <tr>
+    <td><a href="https://www.sage.com/fr-be/produits/sage-bob-50/"><img src="https://img.icons8.com/color/48/accounting.png" width="40" height="40" alt="bob 50"></a></td>
+</table>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-salesp07.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical" alt="Laurence GitHub stats" />
