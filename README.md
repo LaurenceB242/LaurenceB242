@@ -66,11 +66,11 @@
 <h3>Suite Office</h3>
 <table>
   <tr>
-    <td><a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" width="40" height="40" alt="word"></a></td>
-    <td><a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="40" height="40" alt="excel"></a></td>
-    <td><a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerpoint/powerpoint-original.svg" width="40" height="40" alt="powerpoint"></a></td>
-    <td><a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/access/access-original.svg" width="40" height="40" alt="access"></a></td>
-    <td><a href="https://www.microsoft.com/en-us/microsoft-365/publisher"><img src="https://img.icons8.com/color/48/microsoft-publisher.png" width="40" height="40" alt="publisher"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftword.svg" width="40" height="40" alt="word"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" width="40" height="40" alt="excel"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftpowerpoint.svg" width="40" height="40" alt="powerpoint"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftaccess.svg" width="40" height="40" alt="access"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365/publisher"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftpublisher.svg" width="40" height="40" alt="publisher"></a></td>
   </tr>
 </table>
 
