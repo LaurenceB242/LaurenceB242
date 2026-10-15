@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-<h2>Economie/marketing</h2>
+<h2>Economie/Gestion</h2>
 <h3>Suite Office</h3>
 <table>
   <tr>
