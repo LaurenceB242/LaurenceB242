@@ -25,7 +25,7 @@
     <td><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"></a></td>
     <td><a href="https://www.photoshop.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="photoshop"></a></td>
     <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"></a></td>
-    <td><a href="https://www.adobe.com/products/indesign.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/indesign/indesign-original.svg" width="40" height="40" alt="indesign"></a></td>
+    <td><a href="https://www.adobe.com/products/indesign.html"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobeindesign.svg" width="40" height="40" alt="indesign"></a></td>
   </tr>
 </table>
 
