@@ -70,7 +70,7 @@
     <td><a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" width="40" height="40" alt="excel"></a></td>
     <td><a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftpowerpoint.svg" width="40" height="40" alt="powerpoint"></a></td>
     <td><a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftaccess.svg" width="40" height="40" alt="access"></a></td>
-    <td><a href="https://www.microsoft.com/en-us/microsoft-365/publisher"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftpublisher.svg" width="40" height="40" alt="publisher"></a></td>
+<td><a href="https://www.microsoft.com/en-us/microsoft-365/publisher"><img src="https://api.iconify.design/vscode-icons:file-type-pub.svg" width="40" height="40" alt="publisher"></a></td>
   </tr>
 </table>
 
