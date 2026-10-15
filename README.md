@@ -58,7 +58,7 @@
   <tr>
     <td><a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" height="40" alt="blender"></a></td>
     <td><a href="https://unity.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" alt="unity"></a></td>
-    <td><a href="https://threejs.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/threejs.svg" width="40" height="40" alt="threejs"></a></td>
+    <td><a href="https://threejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" height="40" alt="threejs"></a></td>
     <td><a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobexd.svg" width="40" height="40" alt="adobe xd"></a></td>
   </tr>
 </table>
