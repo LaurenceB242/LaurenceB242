@@ -84,8 +84,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical" alt="Laurence GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical" alt="Laurence GitHub stats" />
   </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceBarthelemy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceB242&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
