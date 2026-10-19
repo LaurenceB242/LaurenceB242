@@ -15,7 +15,15 @@
 - Site V2 (https://blitz3.laurencebarthelemy.com/build/pages/lineUp.php)
 - Github (https://github.com/LaurenceB242/Blitz_Examen2026)
 
-[![Mon CV](https://img.shields.io/badge/Mon_CV-purple?style=for-the-badge&logo=adobeacrobatreader)](./CVLB.pdf)
+<p align="center">
+  <a href="./CVLB.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Mon_CV-purple?style=for-the-badge&logo=adobeacrobatreader" alt="Mon CV" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="[https://ton-site-portfolio.com](https://portfolio.laurencebarthelemy.com/)" target="_blank">
+    <img src="https://img.shields.io/badge/Mon_Portfolio-007ACC?style=for-the-badge&logo=firefox" alt="Mon Portfolio" />
+  </a>
+</p>
 <p align="gauche">
 </p>
 
