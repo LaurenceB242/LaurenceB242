@@ -17,11 +17,11 @@
 
 <p align="center">
   <a href="./CVLB.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Mon_CV-purple?style=for-the-badge&logo=adobeacrobatreader" alt="Mon CV" />
+    <img src="https://img.shields.io/badge/Mon_CV-purple?style=for-the-badge" alt="Mon CV" />
   </a>
   &nbsp;&nbsp;
   <a href="https://portfolio.laurencebarthelemy.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Mon_Portfolio-007ACC?style=for-the-badge&logo=firefox" alt="Mon Portfolio" />
+    <img src="https://img.shields.io/badge/Mon_Portfolio-007ACC?style=for-the-badge" alt="Mon Portfolio" />
   </a>
 </p>
 <p align="gauche">
