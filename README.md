@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/LaurenceB242/LaurenceB242/main/HonorHG.mp4" autoplay loop muted playsinline width="100%"></video>
+  <img src="./HGvideo.gif" alt="Démo du projet" width="100%">
 </p>
 <p align="gauche">
 </p>
