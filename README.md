@@ -26,9 +26,7 @@
 </p>
 
 <p align="center">
-  <video src="./HonorHG.mp4" autoplay loop muted playsinline width="100%">
-    Votre navigateur ne prend pas en charge la lecture de vidéos.
-  </video>
+  <video src="https://raw.githubusercontent.com/LaurenceB242/LaurenceB242/main/HonorHG.mp4" autoplay loop muted playsinline width="100%"></video>
 </p>
 <p align="gauche">
 </p>
