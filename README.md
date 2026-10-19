@@ -18,14 +18,14 @@
   &nbsp;
   <img src="./blitz2.gif" alt="Démo Blitz V2" width="48%" />
 </p>
+ <p align="center">
+  <a href="./CVLB.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Mon_CV-purple?style=for-the-badge&logo=adobeacrobatreader" alt="Mon CV" />
+  </a>
   &nbsp;&nbsp;
   <a href="https://portfolio.laurencebarthelemy.com/" target="_blank">
     <img src="https://img.shields.io/badge/Mon_Portfolio-007ACC?style=for-the-badge" alt="Mon Portfolio" />
   </a>
-</p>
-
-<p align="center">
-  <img src="./HGvideo.gif" alt="Démo du projet" width="100%">
 </p>
 <p align="gauche">
 </p>
