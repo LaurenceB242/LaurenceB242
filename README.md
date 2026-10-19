@@ -13,9 +13,6 @@
 - Figma (https://www.figma.com/design/UcMp7jRTBB0M0LPMN5hBiK/Untitled?t=TZ4i6LJLmQHIOnD8-0)
 - Site V1 (https://blitz.laurencebarthelemy.com/build/pages/lineUp.html)
 - Site V2 (https://blitz3.laurencebarthelemy.com/build/pages/lineUp.php)
- <p align="center">
-  <img src="./blitz1.gif" alt="Démo Blitz V1" width="100%">
-</p>
 <p align="center">
   <img src="./blitz1.gif" alt="Démo Blitz V1" width="48%" />
   &nbsp;
