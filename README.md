@@ -13,12 +13,14 @@
 - Figma (https://www.figma.com/design/UcMp7jRTBB0M0LPMN5hBiK/Untitled?t=TZ4i6LJLmQHIOnD8-0)
 - Site V1 (https://blitz.laurencebarthelemy.com/build/pages/lineUp.html)
 - Site V2 (https://blitz3.laurencebarthelemy.com/build/pages/lineUp.php)
-- Github (https://github.com/LaurenceB242/Blitz_Examen2026)
-
+ <p align="center">
+  <img src="./blitz1.gif" alt="Démo Blitz V1" width="100%">
+</p>
 <p align="center">
-  <a href="./CVLB.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Mon_CV-purple?style=for-the-badge" alt="Mon CV" />
-  </a>
+  <img src="./blitz1.gif" alt="Démo Blitz V1" width="48%" />
+  &nbsp;
+  <img src="./blitz2.gif" alt="Démo Blitz V2" width="48%" />
+</p>
   &nbsp;&nbsp;
   <a href="https://portfolio.laurencebarthelemy.com/" target="_blank">
     <img src="https://img.shields.io/badge/Mon_Portfolio-007ACC?style=for-the-badge" alt="Mon Portfolio" />
