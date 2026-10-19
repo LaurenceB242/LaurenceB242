@@ -24,6 +24,12 @@
     <img src="https://img.shields.io/badge/Mon_Portfolio-007ACC?style=for-the-badge" alt="Mon Portfolio" />
   </a>
 </p>
+
+<p align="center">
+  <video src="./HonorHG.mp4" autoplay loop muted playsinline width="100%">
+    Votre navigateur ne prend pas en charge la lecture de vidéos.
+  </video>
+</p>
 <p align="gauche">
 </p>
 
