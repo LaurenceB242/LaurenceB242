@@ -15,6 +15,7 @@
 - Site V2 (https://blitz3.laurencebarthelemy.com/build/pages/lineUp.php)
 - Github (https://github.com/LaurenceB242/Blitz_Examen2026)
 
+[![Mon CV](https://img.shields.io/badge/Mon_CV-PDF-purple?style=for-the-badge&logo=adobeacrobatreader)](./CV_Laurence_Barthelemy.pdf)
 <p align="gauche">
 </p>
 
