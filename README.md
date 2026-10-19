@@ -1,4 +1,4 @@
-
+![Views](https://komarev.com/ghpvc/?username=LaurenceB242&color=blue)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=9D4EDD&center=true&vCenter=true&width=1000&height=80&lines=Laurence+BARTHELEMY" alt="Laurence Barthelemy" />
 </p>
