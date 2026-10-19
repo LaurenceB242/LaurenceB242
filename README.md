@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Mon_CV-purple?style=for-the-badge&logo=adobeacrobatreader" alt="Mon CV" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://ton-site-portfolio.com](https://portfolio.laurencebarthelemy.com/)" target="_blank">
+  <a href="https://portfolio.laurencebarthelemy.com/" target="_blank">
     <img src="https://img.shields.io/badge/Mon_Portfolio-007ACC?style=for-the-badge&logo=firefox" alt="Mon Portfolio" />
   </a>
 </p>
