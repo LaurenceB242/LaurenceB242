@@ -30,6 +30,32 @@
 <p align="gauche">
 </p>
 
+<h2>Langues</h2>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" width="40" height="30" alt="Français"><br>
+      <b>Français</b><br>
+      <sub>C2 (Maternelle)</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="40" height="30" alt="Anglais"><br>
+      <b>Anglais</b><br>
+      <sub>A2 (General, Commercial, IT)</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nl.svg" width="40" height="30" alt="Néerlandais"><br>
+      <b>Néerlandais</b><br>
+      <sub>A2 (General, Commercial)</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/it.svg" width="40" height="30" alt="Italien"><br>
+      <b>Italien</b><br>
+      <sub>A1 (Autodidacte)</sub>
+    </td>
+  </tr>
+</table>
+
 <h2>Development WEB</h2>
 <h3>Design</h3>
 <table>
