@@ -94,7 +94,13 @@
     <td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap"></a></td>
   </tr>
 </table>
-
+<h3>CMS</h3>
+<table>
+  <tr>
+    <td><a href="https://wordpress.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="wordpress"></a></td>
+    <td><a href="https://www.prestashop.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prestashop/prestashop-original.svg" width="40" height="40" alt="prestashop"></a></td>
+  </tr>
+</table>
 <h2>Hobbie/personnel</h2>
 <h3>Passion 3D</h3>
 <table>
