@@ -92,9 +92,7 @@
      <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"></a></td>
      <td><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"></a></td>
    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"></a></td>
-  <tr>
     <td><a href="https://www.json.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40" height="40" alt="json"></a></td>
-  </tr>
 </table>
 
 <h3>Framework</h3>
