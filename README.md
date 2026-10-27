@@ -94,6 +94,13 @@
     <td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap"></a></td>
   </tr>
 </table>
+<h3>DevOps & Outils</h3>
+<table>
+  <tr>
+    <td><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git"></a></td>
+    <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="docker"></a></td>
+  </tr>
+</table>
 <h3>CMS</h3>
 <table>
   <tr>
