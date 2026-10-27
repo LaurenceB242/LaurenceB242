@@ -71,6 +71,14 @@
   </tr>
 </table>
 
+<h3>Multimédia & Vidéo</h3>
+<table>
+  <tr>
+    <td><a href="https://www.adobe.com/products/premiere.html"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobepremierepro.svg" width="40" height="40" alt="premiere pro"></a></td>
+    <td><a href="https://www.adobe.com/products/aftereffects.html"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobeaftereffects.svg" width="40" height="40" alt="after effects"></a></td>
+  </tr>
+</table>
+
 <h3>Frontend</h3>
 <table>
  <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"></a></td>
