@@ -148,9 +148,9 @@
 </table>
 
 <div align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical&cache_seconds=1800" alt="Laurence GitHub stats" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical" alt="Laurence GitHub stats" />
+</a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceB242&layout=compact&theme=radical" alt="Top Languages" />
   </a>
