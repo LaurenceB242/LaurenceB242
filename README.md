@@ -148,11 +148,13 @@
 </table>
 
 ### 📊 Mes Statistiques GitHub
+
 <div align="center">
- [![Statistiques GitHub de LaurenceB242](https://github-readme-stats.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical&locale=fr)](https://github.com/LaurenceB242)
-</a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceB242&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/LaurenceB242">
+    <img src="https://github-readme-stats.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical&locale=fr" alt="Statistiques GitHub de LaurenceB242" />
+  </a>
+  <a href="https://github.com/LaurenceB242">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceB242&layout=compact&theme=radical&locale=fr" alt="Langages les plus utilisés" />
   </a>
 </div>
 
