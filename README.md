@@ -147,16 +147,13 @@
     <td><a href="https://www.sage.com/fr-be/produits/sage-bob-50/"><img src="https://img.icons8.com/color/48/accounting.png" width="40" height="40" alt="bob 50"></a></td>
 </table>
 
+### 📊 Mes Statistiques GitHub
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical" alt="Laurence GitHub stats" />
+ [![Statistiques GitHub de LaurenceB242](https://github-readme-stats.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical&locale=fr)](https://github.com/LaurenceB242)
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceB242&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
-### 📊 Mes Statistiques GitHub
-
-[![Statistiques GitHub de LaurenceB242](https://github-readme-stats.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical&locale=fr)](https://github.com/LaurenceB242)
 
