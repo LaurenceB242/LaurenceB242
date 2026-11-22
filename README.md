@@ -155,7 +155,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceB242&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
+
 ### 📊 Mes Statistiques GitHub
 
-<!-- Exemple de badge affichant tes stats globales -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistiques GitHub de LaurenceB242](https://github-readme-stats.vercel.app/api?username=LaurenceB242&show_icons=true&theme=radical&locale=fr)](https://github.com/LaurenceB242)
+
